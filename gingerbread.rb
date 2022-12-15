@@ -5,3 +5,5 @@ class Gingerbread
     @flavor = "spicy"
   end
 end
+
+# make a change
